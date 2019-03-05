@@ -129,7 +129,7 @@ $(function() {
 
 	// generate a random fruit
 	function chooseFruit() {
-		$("#fruit1").attr("src", "images/" + fruits[Math.round(9 * Math.random())] + ".png");
+		$("#fruit1").attr("src", "Images/" + fruits[Math.round(9 * Math.random())] + ".png");
 	}
 
 	//stop dropping fruits
