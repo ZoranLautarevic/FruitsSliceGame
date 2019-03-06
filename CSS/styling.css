@@ -73,6 +73,7 @@ html {
 	color: black;
 	position: relative;
 	overflow: hidden;
+	cursor: url(Images/sword.png), auto;
 }
 
 #instruction {
