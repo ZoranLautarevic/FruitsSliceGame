@@ -73,7 +73,7 @@ html {
 	color: black;
 	position: relative;
 	overflow: hidden;
-	cursor: url(Images/sword.png), auto;
+	cursor: croshair, auto;
 }
 
 #instruction {
