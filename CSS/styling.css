@@ -73,7 +73,7 @@ html {
 	color: black;
 	position: relative;
 	overflow: hidden;
-	cursor: croshair, auto;
+	cursor: croshair;
 }
 
 #instruction {
